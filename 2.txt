@@ -1,1 +1,1 @@
-welcome,hello from akbar
+hello from akbar
